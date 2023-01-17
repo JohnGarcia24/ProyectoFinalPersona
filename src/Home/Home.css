@@ -1,0 +1,12 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/The-Neighborhood%20banner.webp?alt=media&token=6a26e0ca-9f42-4dd0-b6d8-8ddc115a09af');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+
+}
+
+.icono{
+    font-size: 80px;
+}
