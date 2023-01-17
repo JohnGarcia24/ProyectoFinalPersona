@@ -1,4 +1,8 @@
-.borde{
+.bordeado{
     border-radius: 50px 50% 50cm 50em;
 
+}
+
+.bordeado2{
+    border-radius: 50em 50px 50px 50cm;
 }

@@ -1,3 +1,5 @@
+import '../Integrantes/Integrantes.css'
+
 import { Footer } from "../shared/Footer/Footer";
 
 export function Integrantes(){
@@ -10,7 +12,7 @@ export function Integrantes(){
         <div class="container">
           <div class="row">
             <div class="col-6">
-               <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/integrante1.jpg?alt=media&token=9494595c-8531-4404-9483-c7cec42d1b05" alt="" class="h-100 img-fluid w-100"/>
+               <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/jessee22.jpg?alt=media&token=ccc1b72e-28d9-4232-8d5f-cc38007c7df7" alt="" class="h-100 img-fluid w-100 bordeado"/>
             </div>
             <div class="col-6">
               <h1 class="mt-5 text-center">Jesse Rutherford</h1>
@@ -28,11 +30,11 @@ export function Integrantes(){
                </p>
             </div>
             <div class="col-6">
-            <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/integrante2.jpg?alt=media&token=685f91f0-6d63-479a-b1ec-649bca9f32cd" alt="" class="h-100 img-fluid w-100"/>
+            <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/integrante2.jpg?alt=media&token=685f91f0-6d63-479a-b1ec-649bca9f32cd" alt="" class="h-100 img-fluid w-100 bordeado2"/>
             </div>
 
             <div class="col-6">
-               <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/integrante3.jpg?alt=media&token=628abe0d-f5ca-4110-a17b-ee7ae1bda591" alt="" class="h-100 img-fluid w-100"/>
+               <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/integrante3.jpg?alt=media&token=628abe0d-f5ca-4110-a17b-ee7ae1bda591" alt="" class="h-100 img-fluid w-100 bordeado"/>
             </div>
             <div class="col-6">
               <h1 class="mt-5 text-center">Brandon Fried</h1>
@@ -49,11 +51,11 @@ export function Integrantes(){
                </p>
             </div>
             <div class="col-6">
-            <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/integrante4.webp?alt=media&token=bece014b-c288-4c8e-940e-018c264a86d3" alt="" class="h-100 img-fluid w-100"/>
+            <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/integrante4.webp?alt=media&token=bece014b-c288-4c8e-940e-018c264a86d3" alt="" class="h-100 img-fluid w-100 bordeado2"/>
             </div>
 
             <div class="col-6">
-               <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/integrante5.jpg?alt=media&token=f1e38dad-0c67-48e6-853d-7af6125cc11a" alt="" class="h-100 img-fluid w-100"/>
+               <img src="https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/mikey22.jpg?alt=media&token=d0bc8e93-df18-4a47-b82e-018d9131a218" alt="" class="h-100 img-fluid w-100 bordeado"/>
             </div>
             <div class="col-6">
               <h1 class="mt-5 text-center">Mikey Margott</h1>

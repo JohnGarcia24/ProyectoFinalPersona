@@ -71,7 +71,7 @@ export function Mercancia(){
                                     <div className="card h-100 shadow">
 
 
-                                        <img src={producto.foto} alt="foto" className="h-100 img-fluid w-100" />
+                                        <img src={producto.foto} alt="foto" className="h-100 img-fluid w-100 producto" />
 
 
                                         <button className='btn btn-primary mx-5 my-3' onClick={

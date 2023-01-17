@@ -1,0 +1,12 @@
+.banner2{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotyjegc.appspot.com/o/NewBanner2.jpg?alt=media&token=813c8bc8-27e7-4882-92c7-52ab875148c1');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+
+}
+
+.bordeo{
+    border-radius: 50px 50% 50cm 30em;
+}

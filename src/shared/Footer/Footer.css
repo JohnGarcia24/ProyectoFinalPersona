@@ -6,3 +6,10 @@
 .fuente{
     font-size: 80px;
 }
+
+.logo{
+    top: 1000px;
+    height: 200px;
+    width: 200px;
+    left: 1000px;
+}

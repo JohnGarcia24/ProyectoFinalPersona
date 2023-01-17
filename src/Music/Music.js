@@ -1,3 +1,4 @@
+import '../Music/Music.css'
 import { servicioCancionesTop } from "../services/servicioCanciones"
 import { useState,useEffect } from "react"
 import { Footer } from "../shared/Footer/Footer"
@@ -34,7 +35,7 @@ export function Music(){
 
         return(
             <>
-               <h2>Canciones de la banda: </h2>
+               <h2 className="text-center">Canciones de la banda: </h2>
                {
                 <>
                 <div className="container">
@@ -48,7 +49,7 @@ export function Music(){
 
                                         <img src={cancion.album.images[0].url} ></img>
                                         <h1 className="text-center">{cancion.name}</h1>
-                                        <audio controls src={cancion.preview_url}></audio> 
+                                        <audio controls src={cancion.preview_url} className="d-block mx-auto my-2"></audio> 
 
                                         </div>
                                     </div>
